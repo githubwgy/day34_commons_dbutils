@@ -32,4 +32,7 @@ public interface BookDao {
     //查询书籍个数
 
     long selectCount();
+
+
+    void show();
 }
