@@ -93,4 +93,7 @@ public class BookDaoImpl implements BookDao {
     public void heihei(){
 
     }
+    public void ddd(){
+
+    }
 }
