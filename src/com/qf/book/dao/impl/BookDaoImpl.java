@@ -99,4 +99,8 @@ public class BookDaoImpl implements BookDao {
     public void aaaa(){
 
     }
+
+    public void dmd(){
+
+    }
 }
