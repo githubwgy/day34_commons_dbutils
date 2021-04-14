@@ -84,4 +84,13 @@ public class BookDaoImpl implements BookDao {
             throw new RuntimeException(e);
         }
     }
+
+    @Override
+    public void show() {
+
+    }
+
+    public void heihei(){
+
+    }
 }
